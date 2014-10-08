@@ -8,4 +8,8 @@ Current version is v3.2.0.
 
 # Installation
 
-`bower install bootstrap-less-only`
+1- `bower install bootstrap-less-only`
+2- Customize and download the file variables.less to your project [here](http://pikock.github.com/bootstrap-magic/)
+
+
+
